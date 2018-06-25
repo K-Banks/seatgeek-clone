@@ -13,10 +13,10 @@ This is a basic React app that uses props, and propTypes to display and test dat
 * Run `npm start` to start the development server
 
 ## Technologies
-React
-JavaScript
-CSS
-Webpack
+* React
+* JavaScript
+* CSS
+* Webpack
 
 This project uses the _MIT License_  
 
