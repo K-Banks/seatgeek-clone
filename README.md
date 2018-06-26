@@ -1,10 +1,10 @@
-# Help Queue React App
+# React Template App
 **A webpack setup / first React application for Epicodus 06.24.18**
 
 ## By Bobby Martin
 
 ## Description
-This is a basic React app that uses props, and propTypes to display and test data
+This is a basic React app that uses props, and propTypes eslint, styled-jsx, and hot-swap
 
 ## Setup Requirements
 
