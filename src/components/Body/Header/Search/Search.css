@@ -1,0 +1,33 @@
+.searchContainer {
+  margin: auto;
+}
+.searchContainer h1 {
+  text-align: center;
+  color: white;
+}
+.search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.search input {
+  height: 50px;
+  width: 100%;
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 1px 15px #666;
+}
+
+.search button {
+  position: absolute;
+  right: 15px;
+  height: 40px;
+  width: 105px;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  border: none;
+  border-radius: 10px;
+  background: #0670e9;
+}

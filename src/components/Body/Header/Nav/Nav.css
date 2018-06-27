@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+}
+
+.bar svg, .links {
+  margin-right: 20px;
+  color: white;
+}
+
+.links:hover {
+  background-color: white;
+}

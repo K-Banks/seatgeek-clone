@@ -1,0 +1,8 @@
+.header {
+  background: linear-gradient(135deg,#1673e6 50%,#01a1e7);
+  height: 375px;
+}
+.headerInner {
+  max-width: 960px;
+  margin: auto;
+}
