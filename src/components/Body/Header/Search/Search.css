@@ -1,5 +1,6 @@
 .searchContainer {
   margin: auto;
+  margin-top: 100px;
 }
 .searchContainer h1 {
   text-align: center;
@@ -17,6 +18,8 @@
   border-radius: 12px;
   border: none;
   box-shadow: 0 1px 15px #666;
+  font-size: 20px;
+  padding-left: 45px;
 }
 
 .search button {
@@ -30,4 +33,12 @@
   border: none;
   border-radius: 10px;
   background: #0670e9;
+}
+.search svg {
+  position: absolute;
+  left: 15px;
+}
+
+.searchContainer h1 {
+  font-family: sans-serif;
 }
