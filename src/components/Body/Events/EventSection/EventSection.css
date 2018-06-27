@@ -1,21 +1,28 @@
-.eventSection {
+.eventSectionContainer {
   max-width: 960px;
   margin: auto;
+}
+.eventSection {
   position: relative;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   grid-gap: 10px;
   align-items: center;
+  margin-bottom: 60px;
+}
+.eventSection h4 {
+  grid-row: 100%;
 }
 .showMore {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 40px;
   position: absolute;
-  right: 0;
+  right: -25px;
+  box-shadow: 2px 0 5px rgba(0,0,0,.1);
   height: 50px;
   width: 50px;
   border-radius: 50%;
-  border: 1px solid blue;
   background-color: white;
 }
