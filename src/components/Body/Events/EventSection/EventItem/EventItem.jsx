@@ -3,6 +3,7 @@ import styles from './EventItem.css';
 import PropTypes from 'prop-types';
 
 function EventItem(props) {
+
   return(
     <div>
       <div className={styles.eventImage}>

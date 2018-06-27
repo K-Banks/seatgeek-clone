@@ -3,6 +3,12 @@
   margin: auto;
 }
 .border {
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+  border-top: 1px solid rgba(0,0,0,.1);
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  height: 71px;
+  display: flex;
+  align-items: center;
+  color: blue;
+  font-size: 13px;
+  font-weight: 100;
 }
