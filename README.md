@@ -1,10 +1,10 @@
-# React Template App
-**A webpack setup / first React application for Epicodus 06.24.18**
+# SeatGeek Clone
+**A clone of SeatGeek using React. 06.27.18**
 
-## By Bobby Martin
+## By Bobby Martin and Kayl Eubanks
 
 ## Description
-This is a basic React app that uses props, and propTypes eslint, styled-jsx, and hot-swap
+This is a basic React app using CSS-Modules to style the site to look like SeatGeek. The goal was to recreate another website that was also built using React.
 
 ## Setup Requirements
 
@@ -15,9 +15,9 @@ This is a basic React app that uses props, and propTypes eslint, styled-jsx, and
 ## Technologies
 * React
 * JavaScript
-* CSS
+* CSS-Modules
 * Webpack
 
 This project uses the _MIT License_  
 
-&copy; **Bobby Martin** 2018
+Copyright (c) 2018 **Bobby Martin and Kayl Eubanks** All Rights Reserved.
